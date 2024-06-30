@@ -28,6 +28,7 @@ flutter pub get
 flutter run
 
 ## Proje Yapısı
+```
 lib/
 ├── core/
 │   ├── cache/                # Local Database Yönetimi
@@ -59,10 +60,10 @@ lib/
 │       └──── view/           # Ekranlar
 │
 └── main.dart  # Uygulama giriş noktası
-
+```
 
 # Kullanılan Teknolojiler
-
+```
   State Management: flutter_bloc
   Model Generation: freezed
   HTTP Client: dio
@@ -74,7 +75,7 @@ lib/
   Responsive UI: flutter_screenutil
   Network Image: extended_image
   Architecture: Clean Architecture, Atomic Widget
-
+```
 
 # Global Cubit
 
