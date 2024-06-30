@@ -1,0 +1,1 @@
+ /Users/ufukoztop/Beymen_test_case/.dart_tool/flutter_build/aafa326e9ed192ad2059161f490432b5/native_assets.yaml: 

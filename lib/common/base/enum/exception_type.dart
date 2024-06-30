@@ -1,0 +1,4 @@
+enum AppExceptionType {
+  Exception,
+  SuccessButWithOutResponse,
+}
