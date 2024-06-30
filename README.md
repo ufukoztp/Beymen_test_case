@@ -16,10 +16,10 @@ Bu proje, Flutter SDK kullanılarak oluşturulmuştur. Uygulamanın yerel ortam�
 ## Kurulum
 
 # Repoyu klonlayın
-git clone https://github.com/kullaniciadi/proje-adi.git
+git clone https://github.com/ufukoztp/Beymen_test_case.git
 
 # Proje dizinine gidin
-cd proje-adi
+cd Beymen_test_case
 
 # Gerekli paketleri yükleyin
 flutter pub get
