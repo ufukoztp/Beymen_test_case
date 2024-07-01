@@ -43,7 +43,7 @@ lib/
 │   └── widget/               # Atomic Widget'lar
 │
 ├── features/
-│   ├── data/                 # Bloc ve Cubit'ler
+│   ├── data/                 
 │   │   └──── models/         # Response modeller
 │   │   └──── repositories/   # Repository'ler
 │   │   └──── services/       # Http Istekleri
