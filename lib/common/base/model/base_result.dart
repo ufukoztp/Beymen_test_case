@@ -6,7 +6,6 @@ sealed class Result<S, E extends AppException?> {
   const Result();
   static const String _jsonNodeSuccess= 'isSuccess';
   static const String _jsonNodeErrors = 'errors';
-  static const String _result = 'result';
   static const String _message = 'message';
 
   static Result<T, AppException> fromResponse<T>(
